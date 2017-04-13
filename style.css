@@ -50,6 +50,7 @@
   -webkit-filter: grayscale(0) blur(0);
   filter: grayscale(0) blur(0);
   transition: .4s ease-in-out;
+  background-size: cover;
 }
 
 .itemwrap:hover .item{
@@ -88,78 +89,63 @@
 
 .item-1 {
   background-image: url("images/2.jpeg");
-  background-size: cover;
 }
 
 .item-2 {
   background-image: url("images/3.jpeg");
-  background-size: cover;
 }
 
 .item-3 {
   background-image: url("images/2367_1.jpg");
-  background-size: cover;
 }
 
 .item-4 {
   background-image: url("images/2367_2.jpg");
-  background-size: cover;
 }
 
 .item-5 {
   background-image: url("images/48_2.jpg");
-  background-size: cover;
   margin-right: 0;
 }
 
 .item-6 {
   background-image: url("images/4_1.jpg");
-  background-size: cover;
 }
 
 .item-7 {
   background-image: url("images/4_2.jpg");
-  background-size: cover;
 }
 
 .item-8 {
   background-image: url("images/2367_3.jpg");
-  background-size: cover;
 }
 
 .item-9 {
   background-image: url("images/2367_4.jpg");
-  background-size: cover;
 }
 
 .item-10 {
   background-image: url("images/48_1.jpg");
-  background-size: cover;
   margin-right: 0;
 }
 
 .item-11 {
   background-image: url("images/4_3.jpg");
-  background-size: cover;
 }
 
 .item-12 {
   background-image: url("images/4_4.jpg");
-  background-size: cover;
 }
 
 .item-13 {
   background-image: url("images/1.jpeg");
-  background-size: cover;
 }
 
 .item-14 {
   background-image: url("images/910_1.jpg");
-  background-size: cover;
 }
 
 .item-15 {
   background-image: url("images/910_2.jpg");
-  background-size: cover;
   margin-right: 0;
 }
