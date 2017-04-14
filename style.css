@@ -72,23 +72,19 @@
 }
 
 .itemwrap > p{
-    display: none;
+  display: none;
 }
 
 .itemwrap:hover > p{
-    position: absolute;
-    top: 0;
-    display: block;
-    color: #fff;
-    font-size: 25px;
-    font-weight: bold;
-    z-index: 0;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    transition: .4s ease-in-out;
-    line-height:188px;
-    margin:0;
+  position: absolute;
+  display: block;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 188px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .item-1 {
